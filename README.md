@@ -159,7 +159,7 @@ public class MainActivity extends AppCompatActivity {
 ```
 
 ## Output:
-![EXP4](https://github.com/user-attachments/assets/c348c4a1-0e60-4c91-bf65-d6354ac139cc)
+![EXP4](https://github.com/user-attachments/assets/1ad42180-7264-4929-bc21-e24904f121fa)
 
 ## Result:
 Thus a Simple Android Application to create your own content providers get contact details using Android Studio was developed and executed successfully.
